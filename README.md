@@ -1,1 +1,1 @@
-# Amazon-1
+# Amazon-beginner-level
