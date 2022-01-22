@@ -1,0 +1,65 @@
+ body{
+    margin: auto;
+ }
+ .search {
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    width: 500px;
+  }
+  .heading{
+    height: 80px;
+  }
+  .heading img{
+      position: relative;
+      top: 10px;
+  }
+  .heading a{
+      text-decoration: none;
+      color: black;
+      padding: 4px;
+  }
+  .banner{
+      margin: 0px;
+  }
+  .card{
+      border: 2px solid blanchedalmond;
+      width: 20%;
+      margin: 10px;
+      padding: 10px;
+      float: left;
+  }
+  .card h3{
+      padding: 10px;
+  }
+  
+  .card a {
+      text-align: center;
+      text-decoration: none;
+      color: #007185;
+  }
+  .top{
+      height: 50px;
+      background-color: #6ac8c2;
+      position: relative;
+      top: 725px;
+
+  }
+
+  .top a{
+      text-decoration: none;
+      color: whitesmoke;
+      position: absolute;
+      left: 600px;
+      top: 10px;
+  }
+
+  footer{
+    height: 100px;
+    background-color: #477d7a;
+    position: relative;
+    top: 725px;
+  }
+
+  
